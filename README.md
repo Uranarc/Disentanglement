@@ -30,4 +30,4 @@ Please note that due to confidentiality agreements and to protect the privacy of
 
 If you use this work, please cite it as follows:
 
-> Nascimento, D., & Prata, P. (2025). *Disentanglement*. Final Degree Project, Universidade Lusófona. [Link to your GitHub Repository]
+> Nascimento, D., & Prata, P. (2025). *Disentanglement*. Final Degree Project, Universidade Lusófona. https://github.com/DEISI-ULHT-TFC-2024-25/TFC-DEISI2125-Disentanglement.git
